@@ -9,13 +9,15 @@
   <img align="center" alter height= "180"src="https://github-readme-stats.vercel.app/api?username=JonhSouza&show_icons=true&theme=radical" />
   <img align="center" alt height= "180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhSouza&layout=compact" />
   
-# </a>
+</a>
 
+<a
   <img align="center" alt="Jonh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonh-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Jonh-MySql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+</a>
 
 </div>
 
