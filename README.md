@@ -28,7 +28,7 @@
 ###  Me encontre aqui 🛸
 
 <div> 
-  <a href="linkedin.com/in/jônathas-felipe-a36526266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/j%C3%B4nathas-felipe-a36526266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
